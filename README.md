@@ -15,7 +15,7 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 $ sudo systemctl enable docker
 ```
 
-### Start the container from the root of this project:
+### Start the container from the root of this project: 
 ```
 $ docker-compose up  -d
 ```
